@@ -9,17 +9,17 @@ command in window
 
 then activate your environment 
 
-venv\Scripts\activate
+- venv\Scripts\activate
 
 Now, install django
 
-pip install django
+- pip install django
 
 Now, go inside mysite folder
-cd mysite
+- cd mysite
 
 then runserver
-python manage.py runserver
+- python manage.py runserver
 
 visit
 
